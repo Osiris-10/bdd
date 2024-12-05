@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/projet.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/tP MODUL/TP Modularité/Universite/iter05/src/sql/010_Universite_MDD_types.sql" dialect="PostgreSQL" />
+  </component>
+</project>
